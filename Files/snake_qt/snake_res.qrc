@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/apple.png</file>
+        <file>img/arrow.png</file>
+        <file>img/background.png</file>
+        <file>img/body_horizontal.png</file>
+        <file>img/body_vertical.png</file>
+        <file>img/bottom_panel.png</file>
+        <file>img/default.png</file>
+        <file>img/down_left.png</file>
+        <file>img/down_right.png</file>
+        <file>img/game_over_img.png</file>
+        <file>img/head_down.png</file>
+        <file>img/head_left.png</file>
+        <file>img/head_right.png</file>
+        <file>img/head_up.png</file>
+        <file>img/menu.png</file>
+        <file>img/pause.png</file>
+        <file>img/play.png</file>
+        <file>img/tail_down.png</file>
+        <file>img/tail_left.png</file>
+        <file>img/tail_right.png</file>
+        <file>img/tail_up.png</file>
+        <file>img/top_left.png</file>
+        <file>img/top_right.png</file>
+        <file>results_list.txt</file>
+        <file>img/body_horizontal_pink.png</file>
+        <file>img/body_vertical_pink.png</file>
+        <file>img/down_left_pink.png</file>
+        <file>img/down_right_pink.png</file>
+        <file>img/head_down_pink.png</file>
+        <file>img/head_left_pink.png</file>
+        <file>img/head_right_pink.png</file>
+        <file>img/head_up_pink.png</file>
+        <file>img/tail_down_pink.png</file>
+        <file>img/tail_left_pink.png</file>
+        <file>img/tail_right_pink.png</file>
+        <file>img/tail_up_pink.png</file>
+        <file>img/top_left_pink.png</file>
+        <file>img/top_right_pink.png</file>
+        <file>img/strawberry.png</file>
+    </qresource>
+</RCC>
